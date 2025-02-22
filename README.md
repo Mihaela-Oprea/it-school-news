@@ -1,6 +1,6 @@
 # 📰 News App
 
-This is my **React-based news app** that fetches and displays the latest news articles from various categories like technology, football, games, and culture. Users can browse news, view article details, and save their favorite articles for later reading. The app is built using **React, React Router, React Bootstrap**, and **The Guardian API**.
+This **React-based news app** was developed as part of the **IT School course**, with the purpose of fetching and displaying the latest news articles from various categories such as technology, football, games, and culture. Users can browse news, view article details, and save their favorite articles for later reading. The app is built using **React, React Router, React Bootstrap, and The Guardian API**.
 
 ## 🌟 Demo
 
