@@ -19,6 +19,7 @@ This **React-based news app** was developed as part of the **IT School course**,
 
 - Users can **add articles to favorites** for later reading.
 - The favorites are stored using **React Context** for state management.
+- **Local storage** is used to persist the favorites list across page reloads.
 - Articles can be removed from the favorites list with a single click.
 
 ### 📜 News Details Page
