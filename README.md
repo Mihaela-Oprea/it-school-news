@@ -4,7 +4,7 @@ This is my **React-based news app** that fetches and displays the latest news ar
 
 ## 🌟 Demo
 
-🌐 [Visit the website](#)
+🌐 [Visit the website on Netlify](https://it-school-news-23.netlify.app/)
 
 ---
 
