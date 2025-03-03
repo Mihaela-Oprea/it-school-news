@@ -30,7 +30,7 @@ function Home() {
           <NewsCardList newsList={adaptedTechnologyData} />
           {/* Link către pagina cu toate știrile de tehnologie */}
           <p>
-            Vezi toate știrile legate de tehnologie în secțiunea{" "}
+            See all the news related to technology in the section{" "}
             <Link to="/category/technology" className="text-secondary">
               Tech
             </Link>
@@ -42,14 +42,14 @@ function Home() {
       {/* Secțiunea pentru știri de fotbal */}
       <section className="football my-5">
         <Container>
-          <h1 className="mb-5 pt-3">Fotbal</h1>
+          <h1 className="mb-5 pt-3">Football</h1>
           {/* Afișăm lista de știri despre fotbal */}
           <NewsCardList newsList={adaptedFootballData} />
           {/* Link către pagina cu toate știrile de fotbal */}
           <p>
-            Vezi toate știrile legate de fotbal în secțiunea{" "}
+            See all the news related to technology in the section{" "}
             <Link to="/category/football" className="text-secondary">
-              Fotbal
+              Football
             </Link>
             .
           </p>
@@ -61,19 +61,17 @@ function Home() {
         <Container>
           <h1 className="mb-5 pt-3">Favorite</h1>
           {/* Informații despre cum să adaugi știri la favorite */}
+          <p>Do you want to save your favorite news to read them later?</p>
           <p>
-            Vrei să îți salvezi știrile favorite pentru a le reciti mai încolo?
-          </p>
-          <p>
-            În cadrul fiecărei știri găsești un buton prin care poți adăuga
-            știrea la favorite.
+            Within each news article, you'll find a button that allows you to
+            add the article to your favorites.
           </p>
           <p className="pb-3">
-            Vizitează secțiunea{" "}
+            Visit the section{" "}
             <Link to="/favorites" className="text-secondary">
               Favorite
             </Link>{" "}
-            pentru a vedea știrile adăugate.
+            to see the added news.
           </p>
         </Container>
       </section>

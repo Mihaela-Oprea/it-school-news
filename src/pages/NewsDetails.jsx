@@ -60,7 +60,7 @@ function NewsDetails() {
         {/* Afișăm alerta de succes când articolul este adăugat la favorite */}
         {alertVisible && (
           <div className="alert alert-success fixed-top" role="alert">
-            Articolul a fost adăugat la favorite!
+            The article has been added to favorites!
           </div>
         )}
 
@@ -93,7 +93,7 @@ function NewsDetails() {
                   });
                 }}
               >
-                Adaugă la favorite
+                Add to favorites.
               </Button>
             </div>
             {/* Conținutul complet al știrii */}
