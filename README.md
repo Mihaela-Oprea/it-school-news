@@ -4,7 +4,7 @@ This **React-based news app** was developed as part of the **IT School course**,
 
 ## 🌟 Demo
 
-🌐 [Visit the website on Netlify](https://it-school-news-23.netlify.app/)
+🌐 [Visit the website on Netlify](https://it-school-news33.netlify.app/)
 
 ---
 
